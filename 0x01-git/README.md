@@ -1,1 +1,1 @@
-creating a director
+creating a directory.
